@@ -1,0 +1,4 @@
+# npm run format:frontend
+npm run format:backend
+npm run lint
+npm run build
